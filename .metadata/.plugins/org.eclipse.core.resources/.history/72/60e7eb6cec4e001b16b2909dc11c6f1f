@@ -1,0 +1,7 @@
+package com.nil.cursojavaIntermediario.enumeradores;
+
+public class DiaSemanaContantes {
+	
+	public static final int SEGUNDA = 1;
+
+}
