@@ -1,0 +1,7 @@
+package com.nil.cursojavaIntermediario.escopo_variavel;
+
+import com.nil.cursojavaIntermediario.static_import.ImportacaoEstatica;
+
+public class EscopoVariaveis extends ImportacaoEstatica {
+
+}
