@@ -1,0 +1,10 @@
+package com.nil.cursojavaIntermediario.enumeradores_value_value0f;
+
+public class TesteEnum2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

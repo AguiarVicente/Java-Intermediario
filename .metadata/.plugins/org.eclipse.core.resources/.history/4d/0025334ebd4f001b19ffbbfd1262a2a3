@@ -1,0 +1,16 @@
+package com.nil.cursojavaIntermediario.enumeradores_value_value0f;
+
+public class TesteCodumento {
+
+	public static void main(String[] args) {
+		
+//		for(TipoDocumento doc: TipoDocumento.values()) {
+//			System.out.println(doc + " - " + doc.geraNumeroTeste());
+//		}
+		
+		Pessoa pessoa = new Pessoa();
+		pessoa.setTipoDocumento(TipoDocumento.CPF);
+
+	}
+
+}

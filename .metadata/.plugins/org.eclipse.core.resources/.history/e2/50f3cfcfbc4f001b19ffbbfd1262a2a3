@@ -1,0 +1,9 @@
+package com.nil.cursojavaIntermediario.enumeradores_value_value0f;
+
+public enum TipoDocumento {
+	
+	CPF, CNPJ;
+	
+	public abstract String geraNumeroTeste();
+
+}

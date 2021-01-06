@@ -1,0 +1,15 @@
+package com.nil.cursojavaIntermediario.enumeradores_como_classes;
+
+public enum DiaSemana {
+
+	SEGUNDA, TERCA, QUARTA, QUINTA, SEXTA, SABADO, DOMINGO;
+	
+	private int valor;
+
+	DiaSemana(int valor) {
+		this.valor = valor;
+	}
+	
+	
+	
+}

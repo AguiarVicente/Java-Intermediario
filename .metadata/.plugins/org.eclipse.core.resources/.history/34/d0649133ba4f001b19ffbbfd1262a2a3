@@ -1,0 +1,10 @@
+package com.nil.cursojavaIntermediario.enumeradores_como_classes;
+
+public class Data {
+
+	private int dia;
+	private int mes;
+	private int ano;
+	private DiaSemana diaSemana;
+	
+}

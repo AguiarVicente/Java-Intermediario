@@ -1,0 +1,15 @@
+package com.nil.cursojavaIntermediario.enumeradores_como_classes;
+
+public class Teste {
+
+	public static void main(String[] args) {
+		
+		DiaSemana dia = DiaSemana.DOMINGO;
+		
+		DiaSemana d = new DiaSemana();
+		
+		System.out.println(dia.toString() + " - " + dia.getValor());
+
+	}
+
+}
