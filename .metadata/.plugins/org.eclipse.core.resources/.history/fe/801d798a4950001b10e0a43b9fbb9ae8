@@ -1,0 +1,11 @@
+package com.nil.cursojavaIntermediario.wrappers.autoboxing;
+
+public class TesteAutoboxing {
+
+	public static void main(String[] args) {
+		
+		
+
+	}
+
+}
