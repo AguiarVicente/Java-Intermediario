@@ -1,0 +1,19 @@
+package com.nil.cursojavaIntermediario.classesAninhadas;
+
+public class Externa2 {
+
+	public void metodoQualquer() {
+		class ClasseLocal{
+			
+			private String texto = "Texto classe local";
+			
+			public void imprimeTexto() {
+				System.out.println(texto);
+			}
+		}
+		
+		ClasseLocal local = new ClasseLocal();
+		
+		local.imprimeTexto();
+	}
+}

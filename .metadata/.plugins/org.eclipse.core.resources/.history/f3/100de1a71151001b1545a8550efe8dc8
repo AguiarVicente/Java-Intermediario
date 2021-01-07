@@ -1,0 +1,13 @@
+package com.nil.cursojavaIntermediario.Varargs;
+
+public class ExemploVarargs {
+	public static void main(String[] args) {
+		
+		
+		
+	}
+	
+	static int soma(int a, int b) {
+		return a + b;
+	}
+}

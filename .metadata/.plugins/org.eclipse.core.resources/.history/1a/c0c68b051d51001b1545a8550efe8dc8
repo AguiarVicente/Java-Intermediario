@@ -1,0 +1,16 @@
+package com.nil.cursojavaIntermediario.anotacaoes;
+
+@InformacaoAula(
+		autor = "Nil",
+		aulaNumero = 65,
+		blog = "nil.com",
+		site = "nil.com"
+)
+public class Teste {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

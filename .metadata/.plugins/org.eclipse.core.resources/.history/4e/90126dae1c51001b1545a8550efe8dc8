@@ -1,0 +1,7 @@
+package com.nil.cursojavaIntermediario.anotacaoes;
+
+public @interface InformacaoAula {
+	
+	
+	
+}

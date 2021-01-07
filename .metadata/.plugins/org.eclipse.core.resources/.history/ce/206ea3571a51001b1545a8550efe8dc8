@@ -1,0 +1,10 @@
+package com.nil.cursojavaIntermediario.classesAninhadas;
+
+public class Anonima {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

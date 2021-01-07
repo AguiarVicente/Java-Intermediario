@@ -1,0 +1,13 @@
+package com.nil.cursojavaIntermediario.coletor_lixo;
+
+import com.nil.cursojavaIntermediario.passagem_param.Contato;
+
+public class ColetorLixo {
+
+	public static void main(String[] args) {
+		
+		Contato[] contatos = new Contato[10000];
+		
+	}
+	
+}

@@ -1,0 +1,16 @@
+package com.nil.cursojavaIntermediario.printf;
+
+public class ExemploPrintf {
+
+	public static void main(String[] args) {
+		
+		System.out.printf("Hello %s\n", "Olá Mundo!");
+		
+		System.out.printf("%S\n", "Olá mundo!");
+		
+		System.out.print("%c", "b");
+		System.out.printf("%C", "b");
+
+	}
+
+}

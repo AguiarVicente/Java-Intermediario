@@ -1,0 +1,15 @@
+package com.nil.cursojavaIntermediario.classesAninhadas;
+
+public class Externa {
+	
+	private String texto = "Texto externo";
+	
+	public class Interna{
+		
+		private String texto = "Texto interno";
+		
+		public void imprimeTexto() {
+			System.out.println(texto);
+		}
+	}
+}

@@ -1,0 +1,26 @@
+package com.nil.cursojavaIntermediario.passagem_param;
+
+public class PassagemValorParametro {
+
+	public static void main(String[] args) {
+		
+		Contato contato = new Contato("Nil", "1234-5678", "email@email.com");
+		
+		int valor = 10;
+		
+		System.out.println(contato);
+		System.out.println(valor);
+		
+		testePassagemValorReferencia(valor, contato);
+		
+		System.out.println(contato);
+		System.out.println(valor);
+		
+//		testePassagemValorReferencia(valor, contato);
+//		
+//		System.out.println(contato);
+//		System.out.println(valor);
+
+	}
+
+}
