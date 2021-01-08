@@ -12,4 +12,14 @@
     <fullyQualifiedTypeName name="com.nil.cursojavaIntermediario.anotacaoes.InformacaoAula"/>
     <fullyQualifiedTypeName name="com.nil.cursojavaIntermediario.passagem_param.Contato"/>
     <fullyQualifiedTypeName name="java.lang.Runtime"/>
+    <fullyQualifiedTypeName name="com.nil.cursojavaIntermediario.multi_tarefas.MinhaThread"/>
+    <fullyQualifiedTypeName name="com.nil.cursojavaIntermediario.multi_tarefas_criando_Thread.MinhaThreadRunnable"/>
+    <fullyQualifiedTypeName name="com.nil.cursojavaIntermediario.multi_tarefas_varias_threads_isAlive_join.MinhaThreadRunnable"/>
+    <fullyQualifiedTypeName name="com.nil.cursojavaIntermediario.multi_tarefas_metodos_bloco_sincronizados.Calculadora"/>
+    <fullyQualifiedTypeName name="com.nil.cursojavaIntermediario.multi_tarefas_metodos_bloco_sincronizados.MinhaThreadSoma"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="com.nil.cursojavaIntermediario.multi_tarefas_notify_wait_notifyAll.TiqueTaque"/>
+    <fullyQualifiedTypeName name="com.nil.cursojavaIntermediario.multi_tarefas_notify_wait_notifyAll.ThreadTiqueTaque"/>
+    <fullyQualifiedTypeName name="java.lang.Runnable"/>
+    <fullyQualifiedTypeName name="com.nil.cursojavaIntermediario.multi_tarefas_supend_resume_stop.MinhaThread"/>
 </qualifiedTypeNameHistroy>
