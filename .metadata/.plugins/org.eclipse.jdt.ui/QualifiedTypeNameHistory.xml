@@ -22,4 +22,8 @@
     <fullyQualifiedTypeName name="com.nil.cursojavaIntermediario.multi_tarefas_notify_wait_notifyAll.ThreadTiqueTaque"/>
     <fullyQualifiedTypeName name="java.lang.Runnable"/>
     <fullyQualifiedTypeName name="com.nil.cursojavaIntermediario.multi_tarefas_supend_resume_stop.MinhaThread"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
+    <fullyQualifiedTypeName name="java.util.StringTokenizer"/>
 </qualifiedTypeNameHistroy>
